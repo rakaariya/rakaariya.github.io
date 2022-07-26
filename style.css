@@ -1,0 +1,49 @@
+.navbar {
+  font-family: "Poppins", sans-serif;
+}
+
+#jumbotron {
+  color: #ffff;
+  background-image: url(img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: "Poppins", sans-serif;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+#about {
+  background-image: url(img/IMG-5917.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  font-family: "Poppins", sans-serif;
+}
+
+#whatido {
+  color: #ffff;
+  background-color: #3b00b9;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: "Poppins", sans-serif;
+}
+
+#experience {
+  background-color: #ffff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: "Poppins", sans-serif;
+}
+
+#projects {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: "Poppins", sans-serif;
+}
+
+#help {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  font-family: "Poppins", sans-serif;
+}
