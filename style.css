@@ -4,7 +4,7 @@
 
 #jumbotron {
   color: #ffff;
-  background-image: url(img/banner.jpg);
+  background-image: url(img/banner\ 4.jpg);
   background-size: cover;
   background-position: center;
   font-family: "Poppins", sans-serif;
@@ -23,27 +23,29 @@
 
 #whatido {
   color: #ffff;
-  background-color: #3b00b9;
+  background-color: #42473c;
   padding-top: 100px;
   padding-bottom: 100px;
   font-family: "Poppins", sans-serif;
 }
 
 #experience {
-  background-color: #ffff;
+  color: #ffff;
+  background-color: #666e5c;
   padding-top: 100px;
   padding-bottom: 100px;
   font-family: "Poppins", sans-serif;
 }
 
 #projects {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 10%;
+  padding-bottom: 10%;
   font-family: "Poppins", sans-serif;
 }
 
 #help {
-  padding-top: 20%;
-  padding-bottom: 20%;
+  background-color: #c5d4b2;
+  padding-top: 15%;
+  padding-bottom: 15%;
   font-family: "Poppins", sans-serif;
 }
